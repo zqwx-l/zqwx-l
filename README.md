@@ -51,7 +51,7 @@
 ### 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://t.me/zqwx_l" target="_blank">
+  <a href="https://t.me/dimasabingung" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
 </p>
