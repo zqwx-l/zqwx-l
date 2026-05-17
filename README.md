@@ -2,12 +2,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e96c6c,50:c084fc,100:60a5fa&height=200&section=header&text=Dammar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Enthusiast%20%7C%20Indonesia&descAlignY=60&descSize=18" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=C084FC&center=true&vCenter=true&width=600&lines=「AIを愛するエンジニア」;Building+AI+tools+from+Indonesia+🌏;Exploring+LLMs+%26+Automation;いつも新しい技術を探している" alt="Typing SVG" />
+<!-- Typing SVG — pakai svg-typing yang lebih stabil -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&pause=1000&color=C084FC&center=true&vCenter=true&width=600&lines=%E3%80%8CAI%E3%82%92%E6%84%9B%E3%81%99%E3%82%8B%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%80%8D;Building+AI+tools+from+Indonesia+%F0%9F%8C%8F;Exploring+LLMs+%26+Automation;%E3%81%84%E3%81%A4%E3%82%82%E6%96%B0%E3%81%97%E3%81%84%E6%8A%80%E8%A1%93%E3%82%92%E6%8E%A2%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B" alt="Typing SVG" />
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=zqwx-l&style=flat-square&color=c084fc&label=訪問者)](https://github.com/zqwx-l)
-[![Followers](https://img.shields.io/github/followers/zqwx-l?style=flat-square&color=60a5fa&label=フォロワー)](https://github.com/zqwx-l?tab=followers)
+[![Profile Views](https://komarev.com/ghpvc/?username=zqwx-l&style=flat-square&color=c084fc&label=%E8%A8%AA%E5%95%8F%E8%80%85)](https://github.com/zqwx-l)
+[![Followers](https://img.shields.io/github/followers/zqwx-l?style=flat-square&color=60a5fa&label=%E3%83%95%E3%82%A9%E3%83%AD%E3%83%AF%E3%83%BC)](https://github.com/zqwx-l?tab=followers)
 
 </div>
 
@@ -67,10 +68,10 @@ currently:  Building autonomous AI agents
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=zqwx-l&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=c084fc&icon_color=60a5fa&text_color=ffffff&bg_color=0d1117" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=zqwx-l&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=c084fc&icon_color=60a5fa&text_color=ffffff&bg_color=0d1117" width="48%" onerror="this.style.display='none'"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zqwx-l&layout=compact&theme=tokyonight&hide_border=true&title_color=c084fc&text_color=ffffff&bg_color=0d1117" width="48%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=zqwx-l&theme=tokyonight&hide_border=true&ring=c084fc&fire=e96c6c&currStreakLabel=60a5fa" width="60%"/>
+<img src="https://streak-stats.demolab.com?user=zqwx-l&theme=tokyonight&hide_border=true&ring=c084fc&fire=e96c6c&currStreakLabel=60a5fa" width="60%"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=zqwx-l&theme=tokyo-night&hide_border=true&color=c084fc&line=60a5fa&point=e96c6c" width="95%"/>
 
