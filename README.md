@@ -68,8 +68,8 @@ currently:  Building autonomous AI agents
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=zqwx-l&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=c084fc&icon_color=60a5fa&text_color=ffffff&bg_color=0d1117" width="48%" onerror="this.style.display='none'"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zqwx-l&layout=compact&theme=tokyonight&hide_border=true&title_color=c084fc&text_color=ffffff&bg_color=0d1117" width="48%"/>
+<img src="https://github-stats-alpha.vercel.app/api?username=zqwx-l&cc=0d1117&tc=c084fc&ic=60a5fa&bc=0d1117" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zqwx-l&layout=compact&theme=tokyonight&hide_border=true&title_color=c084fc&text_color=ffffff&bg_color=0d1117&cache_seconds=1800" width="48%"/>
 
 <img src="https://streak-stats.demolab.com?user=zqwx-l&theme=tokyonight&hide_border=true&ring=c084fc&fire=e96c6c&currStreakLabel=60a5fa" width="60%"/>
 
