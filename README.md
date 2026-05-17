@@ -64,29 +64,6 @@ currently:  Building autonomous AI agents
 
 ---
 
-### 📊 統計 — GitHub Stats
-
-<div align="center">
-
-<img src="https://github-stats-alpha.vercel.app/api?username=zqwx-l&cc=0d1117&tc=c084fc&ic=60a5fa&bc=0d1117" width="48%"/>
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=zqwx-l&layout=compact&theme=tokyonight&hide_border=true&title_color=c084fc&text_color=ffffff&bg_color=0d1117" width="48%"/>
-
-<img src="https://streak-stats.demolab.com?user=zqwx-l&theme=tokyonight&hide_border=true&ring=c084fc&fire=e96c6c&currStreakLabel=60a5fa" width="60%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zqwx-l&theme=tokyo-night&hide_border=true&color=c084fc&line=60a5fa&point=e96c6c" width="95%"/>
-
-</div>
-
----
-
-### 🏆 実績 — Achievements
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=zqwx-l&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
 ---
 
 ### 🌸 趣味 — My Down Time
