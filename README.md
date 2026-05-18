@@ -17,7 +17,7 @@
 ### ✨ 自己紹介 — About Me
 
 ```yaml
-name:       Dammar (Dimas Damarjati Armino)
+name:       Dammar
 location:   Indonesia 🇮🇩
 focus:      Artificial Intelligence & LLMs
 role:       AI Developer & Automation Engineer
